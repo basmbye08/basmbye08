@@ -3,8 +3,6 @@
 
 **basmbye08/basmbye08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🤔 I’m looking to collaborate with aspiring or established Data Scientist
 - 📫 How to reach me: mbyebasiru5@gmail.com
 - 😄 Pronouns: he/him
